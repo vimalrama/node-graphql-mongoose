@@ -1,0 +1,14 @@
+{
+    "development": {
+        "MONGO_URI": "mongodb://admin:xgfTlh1wE3qje4wI@SG-first-20609.servers.mongodirector.com:48357,SG-first-20610.servers.mongodirector.com:48357,SG-first-20611.servers.mongodirector.com:48357/admin?replicaSet=RS-first-0&ssl=true"
+    },
+    "staging": {
+        "MONGO_URI": "mongodb://admin:xgfTlh1wE3qje4wI@SG-first-20609.servers.mongodirector.com:48357,SG-first-20610.servers.mongodirector.com:48357,SG-first-20611.servers.mongodirector.com:48357/admin?replicaSet=RS-first-0&ssl=true"
+    },
+    "production": {
+        "MONGO_URI": "mongodb://admin:xgfTlh1wE3qje4wI@SG-first-20609.servers.mongodirector.com:48357,SG-first-20610.servers.mongodirector.com:48357,SG-first-20611.servers.mongodirector.com:48357/admin?replicaSet=RS-first-0&ssl=true"
+    },
+    "default": {
+        "MONGO_URI": "mongodb://admin:xgfTlh1wE3qje4wI@SG-first-20609.servers.mongodirector.com:48357,SG-first-20610.servers.mongodirector.com:48357,SG-first-20611.servers.mongodirector.com:48357/admin?replicaSet=RS-first-0&ssl=true"
+    }
+}
